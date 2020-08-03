@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with C and C++.
 - 💬 Ask me about anything and PLEASE follow me!
 - 📫 How to reach me: 
-          School email: ahsanhaleem@cmail.carleton.ca (connected to this GitHub account)
-          Primary email: ahsanhaleem000@gmail.com
-          LinkedIn: https://ca.linkedin.com/in/ahsan-haleem
+          School email: ahsanhaleem@cmail.carleton.ca (connected to this GitHub account) <br />
+          Primary email: ahsanhaleem000@gmail.com <br />
+          LinkedIn: https://ca.linkedin.com/in/ahsan-haleem <br />
 - 😄 Passions: Creating something new and impactful and helping others in their worst moments.
 -->
