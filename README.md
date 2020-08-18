@@ -12,4 +12,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: https://ca.linkedin.com/in/ahsan-haleem <br />
 
 # Resume
-![](InkedResumepic.jpg)
+![](Simple-Beautiful-Resume-/InkedResumepic.jpg)
