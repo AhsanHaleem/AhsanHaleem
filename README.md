@@ -10,3 +10,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School email: ahsanhaleem@cmail.carleton.ca (connected to this GitHub account) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary email: ahsanhaleem000@gmail.com <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: https://ca.linkedin.com/in/ahsan-haleem <br />
+
+### My Resume
+![](InkedResumepic.jpg)
