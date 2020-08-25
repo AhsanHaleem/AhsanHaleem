@@ -12,4 +12,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: https://ca.linkedin.com/in/ahsan-haleem <br />
 
 ### My Resume
+&nbsp;&nbspPlease give a look over my resume in this README repo
 ![](InkedResumepic.jpg)
