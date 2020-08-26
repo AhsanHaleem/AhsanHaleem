@@ -1,8 +1,8 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on my C/C++ projects and web development (HTML, CSS and JavaScript) projects.  
-- 🌱 I’m currently learning C, C++ and JavaScript however I am familiar with Python, Java, Scheme, Prolog, SQL. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and willing to learn anything new quickly.
+- 🌱 I’m currently learning C, C++ and JavaScript to accomplish intermediate knowledge. <br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However I have knowledege in Python, Java, Scheme, Prolog, SQL, SQL server, Databases, Data Structure and Algorithms, Object-oriented programming and willing to learn anything new quickly.
 - 😄 Passions: Creating something new & impactful and helping others.
 - 💬 Ask me about anything!
 - 👯 I’m looking to collaborate on anything!
