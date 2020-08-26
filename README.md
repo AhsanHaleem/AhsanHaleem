@@ -12,6 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: https://ca.linkedin.com/in/ahsan-haleem <br />
 
 ### My Resume
-&nbsp;&nbsp;Please give a look over my resume in this README repo
+&nbsp;&nbsp;Please take a look at my resume!
+&nbsp;&nbsp;You can simply access my resume by clicking my name on top of "Hi there 👋" or accessing README of this repository.
 
 ![](InkedResumepic.jpg)
